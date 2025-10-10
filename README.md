@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:hi.harvey.817@gmail.com" ><img align="center" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/email-48x48.png"  height="30" width="40" >
+  <a href="mailto:hi.harvey.817@gmail.com"><img src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png" width="40px" alt="e-mail"></a>
 </p>
 
 
