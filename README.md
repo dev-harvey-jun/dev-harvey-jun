@@ -87,10 +87,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🐍 My little snake
+<div align="center">
+  <img src="https://github.com/MapaRuiz/MapaRuiz/blob/output/github-snake-dark.svg" width="1000" height="200">
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmenag&show_icons=true&locale=en&layout=compact" alt="nmenag" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nmenag&show_icons=true&locale=en" alt="nmenag" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nmenag&" alt="nmenag" /></p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
