@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Harvey Jun</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h1 align="center">Hi 👋, I'm Harvey Jun</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Jersey+10+Charted&size=40&pause=1000&color=5549F7&center=true&vCenter=true&repeat=true&width=680&lines=A+passionate+Full+Stack+Developer+%5E_%5E" alt="Typing SVG" />
+  </a>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nmenag&label=Profile%20views&color=0e75b6&style=flat" alt="nmenag" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nmenag" alt="nmenag" /></a> </p>
@@ -18,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nmenag&show_icons=true&locale=en" alt="nmenag" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nmenag&" alt="nmenag" /></p>
+</div>
