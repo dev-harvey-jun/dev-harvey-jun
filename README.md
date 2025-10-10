@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/nmenag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nmenag" height="30" width="40" /></a>
+  <a href="mailto:hi.harvey.817@gmail.com" ><img align="center" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/email-48x48.png"  height="30" width="40" >
 </p>
 
 
