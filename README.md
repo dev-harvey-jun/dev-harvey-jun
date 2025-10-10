@@ -6,12 +6,11 @@
   </a>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=nmenag&label=Profile%20views&color=0e75b6&style=flat" alt="nmenag" /> </p>
 </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nmenag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nmenag" height="30" width="40" /></a>
+  <a href="https://twitter.com/nmenag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nmenag" height="30" width="40" /></a>
 </p>
 
 
