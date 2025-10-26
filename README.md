@@ -47,7 +47,7 @@
 </div>
 
 
-#### 🗃️ Databases & Backend Services
+#### 🗃️ DB & Backend Services
 <div align="left">
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1">&nbsp;
   <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase">&nbsp;
